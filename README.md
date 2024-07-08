@@ -42,7 +42,7 @@ Summarize the key points discussed and highlight the significance of your projec
 * This file are created by @Ankitwarbhe
 under the guidance of Ilias Papachristos
 
-* A special thanks to @srinath1412001 for your valuable contribution
+* A special thanks to @rsrinath14 for your valuable contribution
 
 
 
